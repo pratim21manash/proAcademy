@@ -1,0 +1,3 @@
+data read from input.txt: this is file system of Node.js
+ 
+ Date created Tue Mar 10 2026 13:41:40 GMT+0530 (India Standard Time)
